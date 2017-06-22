@@ -1,0 +1,11 @@
+﻿  SAVE_YOUR_BROTHER.cpp
+c:\users\minternet\desktop\projekt\save_your_brother\save_your_brother\save_your_brother.cpp(157): warning C4065: instrukcja switch zawiera etykietę "default" ale nie zawiera etykiet "case"
+c:\users\minternet\desktop\projekt\save_your_brother\save_your_brother\save_your_brother.cpp(176): warning C4065: instrukcja switch zawiera etykietę "default" ale nie zawiera etykiet "case"
+c:\users\minternet\desktop\projekt\save_your_brother\save_your_brother\save_your_brother.cpp(223): warning C4065: instrukcja switch zawiera etykietę "default" ale nie zawiera etykiet "case"
+c:\users\minternet\desktop\projekt\save_your_brother\save_your_brother\save_your_brother.cpp(710): warning C4065: instrukcja switch zawiera etykietę "default" ale nie zawiera etykiet "case"
+c:\users\minternet\desktop\projekt\save_your_brother\save_your_brother\save_your_brother.cpp(947): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\minternet\desktop\projekt\save_your_brother\save_your_brother\save_your_brother.cpp(967): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\minternet\desktop\projekt\save_your_brother\save_your_brother\save_your_brother.cpp(985): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\minternet\desktop\projekt\save_your_brother\save_your_brother\save_your_brother.cpp(995): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  SAVE_YOUR_BROTHER.vcxproj -> C:\Users\Minternet\Desktop\Projekt\SAVE_YOUR_BROTHER\Debug\SAVE_YOUR_BROTHER.exe
+  SAVE_YOUR_BROTHER.vcxproj -> C:\Users\Minternet\Desktop\Projekt\SAVE_YOUR_BROTHER\Debug\SAVE_YOUR_BROTHER.pdb (Full PDB)
